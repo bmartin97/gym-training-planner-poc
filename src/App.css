@@ -1,0 +1,21 @@
+body {
+  /* margin: 0; */
+}
+
+.label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+* + .label {
+  margin-top: 26px;
+}
+
+.label span {
+  color: #000000aa;
+  font-size: 12px;
+}
+
+.generate-btn {
+  margin-top: 24px;
+}
